@@ -1,0 +1,10 @@
+th:
+  js:
+    poll:
+      voteCount:
+        other: "%{count} โหวต"
+      results:
+        show: แสดงผล
+        hide: ซ่อนผล
+      close_poll: "ปิดโพล"
+      open_poll: "เปิดโพล"

@@ -1,0 +1,13 @@
+th:
+  log_in: "เข้าสู่ระบบ"
+  via: "%{username} จาก %{site_name}"
+  embed:
+    start_discussion: "เริ่มการสนทนา"
+    continue: "ดำเนินการสนทนาต่อ"
+    loading: "กำลังโหลดการสนทนา"
+  has_already_been_used: "ได้ถูกใช้แล้ว"
+  invalid_characters: "มีตัวอักษรที่ไม่สามารถใช้งานได้"
+  next_page: "หน้าถัดไป →"
+  prev_page: "← หน้าก่อนหน้า"
+  page_num: "หน้า %{num}"
+  num_posts: "โพส"
