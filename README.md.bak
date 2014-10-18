@@ -1,7 +1,7 @@
-discourse-turkish-i18n
+discourse-thai-ilek-kpn
 ======================
 
-Turkish locale files for discourse
+Thai locale files for discourse
 
 Idea based on https://github.com/lidel/discourse-locale-override 
 
